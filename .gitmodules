@@ -1,0 +1,3 @@
+[submodule "predict_psx"]
+	path = predict_psx
+	url = https://github.com/bblumberg/predict_psx.git
